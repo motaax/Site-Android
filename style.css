@@ -155,9 +155,10 @@ main > img {
 }
 
 main img.pequena {
-  max-width: 450px;
+  max-width: 450px; 
   display: block;
   margin: auto;
+  display:flex;
 }
 
 div.video {
