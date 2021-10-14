@@ -152,7 +152,7 @@ main a:hover {
 
 main > img {
   width: 100%;
-  max-width: 450px;
+  margin:auto;
 }
 
 main img.pequena {
