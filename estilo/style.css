@@ -158,7 +158,7 @@ main a:hover {
     color: var(--cor4);
 }
 
-main > img {
+img {
     width: 100%;
 }
 
