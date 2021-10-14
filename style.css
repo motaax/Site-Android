@@ -152,13 +152,14 @@ main a:hover {
 
 main > img {
   width: 100%;
+  display: block;
+  margin: auto;
 }
 
 main img.pequena {
   max-width: 450px; 
   display: block;
   margin: auto;
-  display:flex;
 }
 
 div.video {
