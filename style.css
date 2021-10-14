@@ -156,7 +156,7 @@ main > img {
 }
 
 main img.pequena {
-  max-width: 600px; 
+  max-width: 620px; 
   display: block;
   margin: auto;
 }
@@ -217,4 +217,4 @@ footer a:hover {
   color: var(--cor1);
 }
 
-@media (max-width: 600px)
+@media (max-width: 620px)
